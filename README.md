@@ -6,11 +6,11 @@
 
 ###
 
-<h1 align="left">👩‍💻 Who am I?</h1>
+<h1 align="left">👩‍💻 Nina, but make it front-end</h1>
 
 ###
 
-<p align="left">Well, it's me, hi! I'm Nina, a front-end developer passionate about creating intuitive, scalable, and visually sharp web experiences. I love clean code, thoughtful design systems, and building with purpose — not just to make things work, but to make them feel right.<br><br>  I currently work with React, Next.js, TypeScript, Tailwind CSS, Python, and Django, often integrating with APIs and helping shape both the structure and the flow of a product. I’m comfortable building from scratch or improving existing projects, always prioritizing clarity, consistency, and maintainability.<br><br>  I have experience in both small, fast-moving MVPs and larger, more robust platforms. Regardless of scale, I care about delivering an experience that feels seamless for users and scalable for teams.<br><br>  When I’m not coding, I’m probably either talking about it or learning a new recipe — cooking helps me reset, and I like things that demand both precision and creativity.</p>
+<p align="left">It's me, hi! I'm a front-end developer passionate about creating intuitive, scalable, and visually sharp web experiences. I love clean code, thoughtful design systems, and building with purpose — not just to make things work, but to make them feel right.<br><br>  I currently work with React, Next.js, TypeScript, Tailwind CSS, Python, and Django, often integrating with APIs and helping shape both the structure and the flow of a product. I’m comfortable building from scratch or improving existing projects, always prioritizing clarity, consistency, and maintainability.<br><br>  I have experience in both small, fast-moving MVPs and larger, more robust platforms. Regardless of scale, I care about delivering an experience that feels seamless for users and scalable for teams.<br><br>  When I’m not coding, I’m probably either talking about it or learning a new recipe — cooking helps me reset, and I like things that demand both precision and creativity.</p>
 
 
 ###
