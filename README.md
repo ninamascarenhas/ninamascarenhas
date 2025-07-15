@@ -1,9 +1,4 @@
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/ninamascarenhas/count.svg?"  />
-</div>
-
-
 
 ###
 
